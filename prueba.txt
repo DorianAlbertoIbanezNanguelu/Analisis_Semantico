@@ -1,0 +1,6 @@
+1.- INICIO		
+2.- PEDIR "Dame un numero entre 1 y 10: " EN tabla					
+3.- DESDE  num=1 HASTA num=10 INCREMENTOS num=num+1
+4.-     MOSTRAR tabla+"*"+num+"="+(num*tabla) 
+5.- FINDESDE					 	 
+6.- FIN
